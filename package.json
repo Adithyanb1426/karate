@@ -1,0 +1,19 @@
+{
+  "name": "karate-school-backend",
+  "version": "1.0.0",
+  "description": "Backend for Karate School Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.21.2",
+    "nodemailer": "^6.10.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
